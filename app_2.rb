@@ -78,4 +78,4 @@ puts "La partie est finie"   #la partie est finie
 
 puts "============================================"
 
-
+binding.pry
